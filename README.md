@@ -1,4 +1,4 @@
-# Employee-Attrition-Prediction - IBM HR Dataset
+### HR Employee-Attrition-Prediction 
 This project uses the dataset to predict which employees are at risk of leaving a company.
 
 ### Project Goals
