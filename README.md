@@ -19,7 +19,7 @@ In this project I aimed to predict employee attrition: a challenging and imbalan
 -but here the focus is on building a predictive model, evaluate its performance.
 
 ### Project Structure
-- notebook : Jupter notebook  for data cleaning, modelling and interpretation
+- Employee Atrrition Prediction : Jupter notebook  for data cleaning, modelling and interpretation
 - data -: dataset file(s)
 - README.md : Employee Attrition Project Overview
 
