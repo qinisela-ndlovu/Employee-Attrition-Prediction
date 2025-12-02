@@ -11,11 +11,11 @@ This project predicts employee attrition (whether an employee will stay or leave
 - Data visualisation: Matplotlib, Seaborn
 - Jupyter Notebook
 
-### Dataset Source
+### About Data
 - Synthetic Data
 - Features: 30+ employee-related variables (numeric and categorical)
 - Target variable: Attrition (Yes/No)
-- 
+  
 ## Workflow
  1. Data Preprocessing
     - Selected relevant features
@@ -33,8 +33,8 @@ This project predicts employee attrition (whether an employee will stay or leave
    
 
 ### Project Structure
-- Employee Atrrition Prediction : Jupter notebook  for data cleaning, modelling and interpretation
-- data -: dataset file(s)
+- Employee Atrrition Prediction : Jupyter notebook  for data cleaning, modelling and interpretation
+- data : dataset file(s)
 - README.md : Employee Attrition Project Overview
 
 ### Key Results
